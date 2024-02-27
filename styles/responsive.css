@@ -1,0 +1,952 @@
+@media screen and (max-width:767px) {
+    :root {
+        --base-font-size: 14px;
+        --button-padding: 12px 25px;
+        --button-font-size: 14px;
+        --copyright-font-size: 12px;
+    }
+    html, body {
+        overflow-x: hidden;
+    }
+    h1 {
+        font-size: 36px !important;
+        line-height: 42px;
+    }
+    h2 {
+        font-size: 30px !important;
+        line-height: 36px;
+    }
+    h3 {
+        font-size: 26px !important;
+        line-height: 32px;
+    }
+    h4 {
+        font-size: 24px !important;
+        line-height: 30px;
+    }
+    h5 {
+        font-size: 20px !important;
+        line-height: 26px;
+    }
+    h6 {
+        font-size: 16px !important;
+        line-height: 22px;
+    }
+    .process-heading {
+        width: 100%;
+        padding-bottom: 10px;
+    }
+    .box-step {
+        max-width: 100%;
+        text-align: center;
+    }
+    .slider-testimonial-box p.page-description {
+        padding: 20px 0 20px;
+    }
+    .slider-testimonial-box {
+        padding: 25px;
+    }
+    .box-pricing-detai {
+        padding: 20px;
+        margin-bottom: 20px;
+    }
+    .testimonila-star img {
+        width: 100px;
+        height: auto;
+    }
+    .slider-testimonial-box p {
+        margin: 0;
+    }
+    .form-banner-design select.form-select {
+        width: 100%;
+    }
+    .form-banner-design select.form-select {
+        width: 100%;
+        height: 45px;
+        margin: 10px auto;
+    }
+    .whyus-image img {
+        width: 100%;
+        height: auto;
+    }
+    .testimonial-section .process-heading {
+        width: 100%;
+    }
+    section.service-section .row{
+        width: 100%;
+    }
+    .service-section .process-heading p {
+        width: 100%;
+    }
+    .popularquestion-section img {
+        width: 100%;
+        height: auto;
+    }
+    .big-heading {
+        font-size: 84px !important;
+        word-break: break-word;
+        display: none;
+    }
+    .process-design {
+        padding: 30px 0px;
+    }
+    .blog-box-design img {
+        width: 100%;
+        height: auto;
+    }
+    .shop-section .shop-image img {
+        width: 100%;
+    }
+    .why-us-section {
+        padding: 30px 0 0;
+    }
+    .testimonial-section {
+        padding: 30px 0 70px;
+    }
+    .pricing-section {
+        padding: 30px 0;
+    }
+    .service-section {
+        padding: 30px 0;
+    }
+    .shop-image {
+        margin-bottom: 20px;
+    }
+    .shop-section {
+        padding: 30px 0;
+    }
+    .popularquestion-section {
+        padding: 30px 0;
+    }
+    .accordion-button {
+        padding: 5px 30px !important;
+    }
+    .blog-section {
+        padding: 30px 0;
+    }
+    .blog-box-design {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .blog-box-design h6 {
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .still-question-section {
+        padding: 20px 20px 0;
+        text-align: center;
+    }
+    .coder-still-bing {
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .still-question-section .row {
+        flex-wrap: wrap-reverse;
+    }
+    .banner {
+        min-height: 550px;
+    }
+    .banner-row-code {
+        max-width: 100%;
+        gap: 60px;
+    }
+    .site-header .header-btns {
+        width: 100%;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .site-header .navigation {
+        width: 100%;
+    }
+    .site-header .navigation .navbar-toggler {
+        padding: 0;
+        border: 0;
+        outline: 0;
+        box-shadow: 0 0 0 0 #fff !important;
+        padding-right: 10px;
+    }
+    .site-header .navigation .navbar .navbar-collapse {
+        position: absolute;
+        top: 60px;
+        background: #fff;
+        width: 100%;
+    }
+    .site-header .navigation .navbar .navbar-nav {
+        gap: 0;
+        margin: 0 !important;
+        z-index: 9999;
+        position: relative;
+        background: #fff;
+        box-shadow: 0 14px 14px 0 hsl(0deg 0% 0% / 10%);
+    }
+    .site-header .navigation .navbar .navbar-nav li a {
+        padding: 10px;
+    }
+    header.site-header {
+        padding: 10px 0;
+        flex-wrap: wrap-reverse;
+    }
+    .service.heading-inner-sec h1 {
+        width: 100%;
+    }
+    .heading-inner-sec h1 {
+        width: 100%;
+        font-size: 36px !important;
+        line-height: 44px !important;
+    }
+    .patient-section-treatment {
+        padding: 30px 0;
+    }
+    .patient-rights-heading h3 {
+        padding-bottom: 0;
+    }
+    .intakeform-content h2 {
+        width: 100%;
+    }
+    .intakeform-section {
+        padding: 30px 0;
+    }
+    .inner-pages-banner {
+        min-height: 200px;
+        border-radius: 20px;
+    }
+    .listing-inner-code ul li {
+        padding-top: 0px;
+    }
+    .listing-inner-code ul li a:after {
+        height: 12px;
+    }
+    .contact-secound-section {
+        padding: 30px 0;
+    }
+    iframe {
+        height: 350px;
+    }
+    .content-information {
+        padding: 20px;
+        margin-bottom: 15px;
+    }
+    .content-information ul li {
+        margin-bottom: 10px;
+    }
+    .content-form-info {
+        padding: 20px;
+    }
+    input {
+        height: 45px;
+        padding: 0 10px;
+    }
+    select {
+        height: 45px;
+        padding: 0 10px;
+    }
+    .contact-form-section textarea {
+        padding: 10px;
+        height: 90px;
+    }
+    .contact-map-section iframe {
+        margin-bottom: 15px;
+        margin-top: 15px;
+    }
+    .social-media-footer {
+        padding-top: 10px;
+    }
+    .social-media-footer img {
+        width: 40px;
+    }
+    .footer-top .col-md-3 {
+        margin-bottom: 20px;
+    }
+    .footer-top {
+        padding: 40px 0 20px;
+    }
+    .site-footer {
+        margin-top: 0;
+    }
+    .site-header .navigation .navbar .navbar-brand {
+        padding-left: 10px;
+    }
+    .service-media-section h2 {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .image-medical-code img {
+        width: 100%;
+        height: auto;
+    }
+    .diagnosis-section {
+        padding: 30px 0;
+    }
+    .service-media-section {
+        padding: 30px 0;
+    }
+    .image-medical-code img {
+        margin-bottom: 15px;
+    }
+    .patient-listing ul li img {
+        margin-top: 0;
+    }
+    .qualifying-box {
+        min-height: 240px;
+        padding: 10px;
+    }
+    .qualifying-box img {
+        width: 100%;
+        height: auto;
+    }
+    .qualifying-box p {
+        margin-top: 10px;
+    }
+    .slick-slide > div {
+        padding: 0 5px;
+    }
+    .butt-doctor-service.slider-butt {
+        height: auto;
+        margin-bottom: -10px;
+        margin-top: 80px;
+    }
+    .review-secound {
+        padding: 30px 0;
+    }
+    .box-review-design {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    .Fcabook-reviews-desgin {
+        padding: 30px 0;
+    }
+    .facbook-review-two {
+        width: 100%;
+        margin: 0 auto 40px;
+    }
+    .content-facbook-review p {
+        min-height: auto;
+    }
+    .butt-price a {
+        text-align: center;
+    }
+    .butt-still-question {
+        justify-content: center;
+    }
+    .healthcare-section-img img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .healthcare-section {
+        padding: 30px 0;
+    }
+    .Lotions-video-section {
+        padding: 30px 0;
+    }
+    .video-lotions-code img {
+        width: 100%;
+        height: auto;
+    }
+    .blog-all-design {
+        padding: 30px 0;
+    }
+    .feedback-section {
+        padding: 30px 0;
+    }
+    .main-feedback-heading {
+        width: 100%;
+    }
+    .main-sendus-heading {
+        width: 100%;
+    }
+    .upcoming-events {
+        padding: 30px 0;
+    }
+    .upcoming-main-coder {
+        margin-bottom: 20px;
+    }
+    .events-coppert {
+        padding: 15px;
+        margin-bottom: 15px;
+        min-height: auto;
+    }
+    .events-coppert p {
+        margin: 0;
+    }
+    .requirement-secound {
+        padding: 30px 0;
+    }
+    .requirement-box {
+        gap: 15px;
+        padding: 15px;
+        flex-wrap: wrap;
+    }
+    .requirement-double-box {
+        width: 100%;
+    }
+    .requirement-double-box img {
+        width: 100%;
+        height: auto;
+    }
+    .requirement-renew {
+        padding: 30px 0;
+    }
+    .requirement-three-section {
+        padding: 30px 0;
+    }
+    .images-requirment-doc img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 15px;
+    }
+    .triple-butt {
+        text-align: center;
+    }
+    .requirement-certification {
+        padding: 30px 0;
+    }
+    .requirement-certification {
+        padding: 30px 0;
+    }
+    .renewing-secound {
+        padding: 30px 0;
+    }
+    .releaf-coder-section {
+        padding: 30px 0;
+    }
+    .secound-releaf-coff {
+        margin: 20px auto;
+    }
+    .images-pay-refeal img {
+        width: 100%;
+        height: auto;
+    }
+    .box-ohio-four {
+        padding: 15px;
+        min-height: auto;
+        margin-bottom: 15px;
+    }
+    section.ohio-loction-four {
+        padding: 30px 0;
+    }
+    section.ohio-loction-five {
+        padding: 30px 0;
+    }
+    .location-img-map img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .location-qualify-imges {
+        gap: 30px;
+    }
+    section.qualify-loction-five {
+        padding: 30px 0 70px;
+    }
+    .WeCanHelp-six {
+        padding: 30px 0;
+    }
+    .heading-wecanhelp {
+        width: 100%;
+        margin: 0 auto 20px;
+    }
+    .box-decide-pages-helper {
+        padding: 15px;
+    }
+    .box-decide-pages-helper p {
+        width: 100%;
+    }
+    .help-button {
+        margin-top: 15px;
+    }
+    .site-header .navigation .navbar .navbar-nav ul.dropdown-menu {
+        width: 95%;
+        margin: 0 auto !important;
+    }
+    .location-Qrty .box-ohio-four {
+        min-height: auto;
+    }
+    .cearte-ohio-heading p {
+        margin-bottom: 10px;
+    }
+    .massage-inform p {
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .last-virginia-section {
+        padding: 30px 0 100px;
+    }
+    .west-beat-virginia img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .content-good-west {
+        margin-left: 0;
+    }
+    .listing-location.patient-listing {
+        margin-left: 0;
+    }
+    .inner-provide.patient-listing {
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+    .cearte-ohio-heading {
+        width: 100%;
+    }
+    section.ohio-loction-four.location-Qrty .row {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .popularquestion-section .col-md-6:first-child {
+        order: 2;
+        margin-top: 20px;
+    }
+    .service-section .col-md-4 {
+        width: 50%;
+    }
+    .shop-section .col-md-4 {
+        width: 50%;
+    }
+    .shop-section .col-md-4 img {
+        height: 100%;
+    }
+    .shop-section .col-md-4:last-child {
+        width: 100%;
+    }
+    body .accordion-coder-able .accordion-item h2 button {
+        font-size: 15px !important;
+        padding: 15px 15px !important;
+    }
+    .faq-banner-cap h1 {
+        font-size: 25px !important;
+        line-height: 34px !important;
+    }
+
+}
+
+
+
+
+@media screen and (min-width:1200px) and (max-width:1600px) {
+    .image-medical-code img {
+        width: 100%;
+    }
+    h1 {
+        font-size: 50px !important;
+        line-height: 62px;
+    }
+    h3 {
+        font-size: 32px !important;
+        line-height: 40px;
+    }
+    h2 {
+        font-size: 35px !important;
+        line-height: 50px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .healthcare-section-img img {
+        width: 100%;
+    }
+    .process-heading {
+        width: 51%;
+    }
+    .images-requirment-doc img {
+        width: 100%;
+    }
+   
+    .whyus-image img {
+        width: 100%;
+        height: auto;
+    }
+    .big-heading {
+        font-size: 150px !important;
+    }
+    .site-header {
+        padding: 20px 2%;
+    }
+    .site-header .navigation .navbar .navbar-nav {
+        gap: 15px;
+    }
+    .site-header .navigation .navbar .navbar-brand img {
+        width: 220px;
+        height: 45px;
+    }
+    .site-header .navigation .navbar .navbar-nav a {
+        font-size: 12px;
+    }
+    .site-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+
+    
+
+
+    
+}
+
+
+
+.site-btn {
+    border: none;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    position: relative !important;
+  }
+  
+  .site-btn:after {
+    position: absolute;
+    content: "";
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+     background-color: #E2BB52;
+  background-image: linear-gradient(315deg, #000 0%, #000 74%);
+    transition: all 0.3s ease;
+  }
+  .site-btn:hover {
+    background: transparent !important;
+    /* box-shadow:  4px 4px 0px 0 rgba(255,255,255,.5),
+                -4px -4px 6px 0 rgba(116, 125, 136, .2), 
+      inset -4px -4px 0px 0 rgba(255,255,255,.5),
+      inset 4px 4px 0px 0 rgba(116, 125, 136, .3);
+    color: #fff; */
+    color: #fff!important;
+    z-index: 999;
+  }
+  .site-btn:hover:after {
+    -webkit-transform: scale(2) rotate(180deg);
+    transform: scale(2) rotate(180deg);
+    /* box-shadow:  4px 4px 0px 0 rgba(255,255,255,.5),
+                -4px -4px 0px 0 rgba(116, 125, 136, .2), 
+      inset -4px -4px 0px 0 rgba(255,255,255,.5),
+      inset 4px 4px 0px 0 rgba(116, 125, 136, .3); */
+      color: #fff;
+  }
+  
+  
+  
+
+
+
+
+
+
+
+  @media screen and (min-width:768px) and (max-width:1024px) {
+             
+    .whyus-image img {
+        width: 100%;
+        height: 100%;
+    }
+    .big-heading {
+        font-size: 0px !important;
+    }
+    .col-md-6 {
+        width: 100%;
+    }
+    .why-us-section {
+        padding-top: 50px;
+    }
+    h2 {
+        font-size: 38px !important;
+        line-height: 50px;
+    }
+    .box-pricing-detai {
+        margin-bottom: 10px;
+    }
+    .service-section {
+        padding: 60px 0;
+    }
+    .shop-section .shop-image img {
+        width: 100%;
+        height: 100%;
+    }
+    .shop-section .col-md-4 {
+        width: 50%;
+    }
+    .shop-section .col-md-4:last-child {
+        width: 95%;
+        margin-top: 30px;
+    }
+    h1 {
+        font-size: 48px !important;
+        line-height: 62px;
+    }
+    h3 {
+        font-size: 30px !important;
+        line-height: 42px;
+    }
+    .col-md-4 {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+    .site-header .header-btns {
+        gap: 9px;
+        width: 36%;
+    }
+    
+    .popularquestion-section .col-md-6:last-child {
+        order: 1;
+        position: relative;
+    }
+    .accordion-design {
+        margin-top: 20px;
+    }
+    .popularquestion-section .col-md-6:first-child {
+        order: 2;
+    }
+    .still-question-section .col-md-6 {
+        width: 50%;
+    }
+    .popularquestion-section .col-md-6 img {
+        width: 100%;
+        height: 100%;
+    }d
+    .accordion-button {
+        font-size: 22px;
+    }
+    .popularquestion-section {
+        padding: 80px 0;
+    }
+    .blog-section {
+        padding: 50px 0;
+    }
+    .shop-section {
+        padding: 70px 0;
+    }
+
+    .footer-top .row {
+        column-count: 2;
+        display: block;
+    }
+    
+    .footer-top .row .col-md-3 {
+        width: 100%;
+        margin-bottom: 46px;
+    }
+    section.service-section .col-md-4 {
+        width: 32%;
+        margin-bottom: 30px;
+    }
+    .service-section .all-design-button {
+        padding: 0px 0;
+    }
+    .pricing-section {
+        padding: 60px 0;
+    }
+    .testimonial-section {
+        padding: 60px 0 80px;
+    }
+    button.navbar-toggler {
+        right: 34px;
+        position: relative;
+    }
+    .site-header .navigation .navbar .navbar-collapse {
+        position: absolute;
+        background: #fff;
+        top: 88px;
+        width: 700px;
+        padding: 26px;
+        z-index: 999;
+        height: 100vh;
+    }
+    .patient-section-treatment {
+        padding: 60px 0;
+    }
+    .image-medical-code img {
+        width: 100%;
+        height: 100%;
+    }
+    .service-media-section .row {
+        align-items: center;
+    }
+    .service-media-section {
+        padding: 60px 0;
+    }
+    .inner-pages-banner {
+        min-height: 300px;
+    }
+    .diagnosis-section {
+        padding: 60px 0;
+    }
+    .intakeform-content h2 {
+        max-width: 100%;
+    }
+    .inner-qualifying-page .col-md-4 {
+        width: 33%;
+    }
+    .requirement-secound .col-md-6 {
+        margin-bottom: 20px;
+    }
+    .requirement-secound {
+        padding: 60px 0;
+    }
+    .cearte-ohio-heading {
+        width: 100%;
+    }
+    .ohio-loction-four .col-md-3 {
+        width: 50%;
+    }
+    section.ohio-loction-four {
+        padding: 60px 0;
+    }
+    .location-img-map img {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 25px;
+    }
+    section.ohio-loction-five {
+        padding: 60px 0;
+    }
+
+    .heading-wecanhelp {
+        width: 100%;
+        margin: 0 auto 40px;
+    }
+    .box-decide-pages-helper p {
+        width: 90%;
+    }
+    section.ohio-loction-four .col-md-2 {
+        width: 33%;
+    }
+    .last-virginia-section .col-md-5 {
+        width: 100%;
+    }
+    
+    .last-virginia-section .col-md-7 {
+        width: 100%;
+    }
+    .west-beat-virginia img {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 20px;
+    }
+    .content-good-west {
+        margin-left: 0px;
+    }
+    .listing-location.patient-listing {
+        margin-left: 0px;
+    }
+    .last-virginia-section .col-md-4 {
+        width: 100%;
+        margin: 0;
+    }
+    .inner-provide.patient-listing {
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+    .butt-double {
+        margin-top: 40px;
+    }
+    .review-secound .col-md-4 {
+        width: 33%;
+    }
+    .review-secound {
+        padding: 60px 0;
+    }
+    .Fcabook-reviews-desgin {
+        padding: 60px 0 120px;
+    }
+    .review-two-section.Fcabook-reviews-desgin .col-md-6 {
+        width: 50%;
+    }
+    .facbook-review-two {
+        width: 100%;
+    }
+    .healthcare-section.patient .col-md-7 {
+        width: 100%;
+        order: 2;
+    }
+    .healthcare-section.patient .col-md-5 {
+        width: 100%;
+        order: 1;
+    }
+    .healthcare-section .col-md-7 {
+        width: 100%;
+    }
+    .healthcare-section .col-md-5 {
+        width: 100%;
+    }
+    .healthcare-section-img img {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 25px;
+    }
+    .healthcare-section {
+        padding: 60px 0 60px;
+    }
+    .patient {
+        padding: 60px 0 120px;
+    }
+    .Lotions-video-section {
+        padding: 50px 0;
+    }
+    .images-requirment-doc img {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 27px;
+    }
+    .requirement-renew {
+        padding: 50px 0;
+    }
+    .requirement-three-section {
+        padding: 60px 0;
+    }
+    .main-feedback-heading {
+        width: 90%;
+    }
+    .feedback-section {
+        padding: 50px 0;
+    }
+    .feedback-section.contact-form-section {
+        padding: 60px 0 130px;
+    }
+    .main-sendus-heading {
+        width: 92%;
+        margin: 0 auto 30px;
+    }
+    .form-testimonial-page.all-box-form {
+        max-width: 90%;
+    }
+    h6 {
+        font-size: 16px !important;
+    }
+    .upcoming-events {
+        padding: 60px 0 100px;
+    }
+    .images-pay-refeal img {
+        width: 100%;
+    }
+    section.renewing-secound .col-md-5 {
+        width: 100%;
+    }
+    section.renewing-secound .col-md-7 {
+        width: 100%;
+    }
+    .renewing-secound {
+        padding: 0px 0 60px;
+    }
+    .releaf-coder-section {
+        padding: 60px 0 130px;
+    }
+    .renewing-secound .col-md-8 {
+        width: 100%;
+    }
+    .card-option {
+        margin-bottom: 75px;
+    }
+    .contact-form-section .col-md-4 {
+        width: 100%;
+    }
+    .contact-form-section .col-md-8 {
+        width: 100%;
+    }
+    .contact-secound-section {
+        padding: 50px 0;
+    }
+
+  }
+
